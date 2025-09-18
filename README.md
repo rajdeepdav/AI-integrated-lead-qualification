@@ -23,6 +23,8 @@ curl -X POST http://localhost:3000/leads/upload -F 'file=@leads.csv'
 # Score leads
 
 curl -X POST http://localhost:3000/score
+<img width="1362" height="569" alt="image" src="https://github.com/user-attachments/assets/90705ead-86ca-4a58-9769-3d81f952e276" />
+
 
 # Get all leads
 
