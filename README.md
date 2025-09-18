@@ -19,6 +19,8 @@ node src/server.js
 # Upload leads
 
 curl -X POST http://localhost:3000/leads/upload -F 'file=@leads.csv'
+<img width="1359" height="898" alt="image" src="https://github.com/user-attachments/assets/229243a2-76dc-4d8e-91b8-5cecca8f3883" />
+
 
 # Score leads
 
