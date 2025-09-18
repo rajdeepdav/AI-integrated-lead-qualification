@@ -27,3 +27,8 @@ curl -X POST http://localhost:3000/score
 # Get all leads
 
 curl -X GET http://localhost:3000/leads
+
+Vercel link
+https://ai-integrated-lead-git-58dbc3-rajdeep-singhs-projects-79fc7195.vercel.app
+
+https://ai-integrated-lead-git-58dbc3-rajdeep-singhs-projects-79fc7195.vercel.app/score
